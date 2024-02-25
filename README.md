@@ -4,7 +4,7 @@
 
 ### 🔭 I’m currently working on...
  - a task manager for a medical supply company located in Sacramento 
- - A site utilizing Google Maps API that allows users to upload personal stories as markers on the map to their relative location
+ - A site utilizing Google Maps API 
  - my own personal site with a collection of projects and my hobbies.
 
 ### I have experience with..
