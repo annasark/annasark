@@ -1,14 +1,16 @@
 ### Hi there 👋
 
-### I'm a recent CS graduate from California State University of Sacramento
+### I'm a recent CS graduate from California State University of Sacramento. 
+
 ### 🔭 I’m currently working on...
  - a task manager for a medical supply company located in Sacramento 
- - A site utilizing Google Maps API that allows users to upload personal stories to their relative location
+ - A site utilizing Google Maps API that allows users to upload personal stories as markers on the map to their relative location
  - my own personal site with a collection of projects and my hobbies.
 
-### 📫How to reach me: 
--  ✉️: annasrkian@gmail.com
-
+### I have experience with..
+ - C/C++, C#, Java, SQL, HTML/CSS, JavaScript, Python, Bash/Shell Scripting
+- React, Next.js, Node.js, Angular, ASP.NET, MySQL, Entity Framework Core
+- Figma, Infragistics, JIRA, Azure DevOps, Postman, Cypress, Linux, SendGrid
 <!--
 **annasark/annasark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
