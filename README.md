@@ -13,7 +13,7 @@ My most recent completed project is my [senior project](https://github.com/Fines
  - A website built with React/Firebase utilizing Google Maps API that allows users to upload custom markers on the map. 
  - My own personal site with Next.js showcasing a collection of accomplishments, projects, and my hobbies that I've accumulated over the years.
 
-#### I have experience with..
+#### 👩‍💻 I have experience with..
 - C/C++, C#, Java, SQL, HTML/CSS, JavaScript, Python, Bash/Shell Scripting
 - React, Next.js, Node.js, Angular, ASP.NET, MySQL, Firebase, Entity Framework Core
 - Figma, Infragistics, JIRA, Azure DevOps, Postman, Cypress, Linux, SendGrid
