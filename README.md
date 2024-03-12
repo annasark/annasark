@@ -4,12 +4,12 @@ I'm a recent CS graduate from California State University of Sacramento, who is 
 I am dedicated to honing my craft and that includes picking up many side projects to help work towards my own developmental goals. 
 
 During my 6 month software engineering intern at Northern California Power Agency, I worked to develop a new version of a 25 year old legacy application 
-that addressed previous shortcomings and wants by business end-users. While developing this project, I excelled in developing client-side applications using Angular and Infragistics UI Library by designing functional web layouts, implementing reactive forms, and strategically building singleton services. I also contributed significantly to backend development and implementing APIs in ASP.NET. I utilized tools like Entity Framework Core with a code-first approach to defining tables in MySQL, implementing EF Fluent API for Oracle support, and unit testing to ensure API controllers perform as designed. My role also involved analyzing legacy schemas, aiding in new schema design, extracting test data, and identifying issues related to data migration. 
+that addressed previous shortcomings and wants by business end-users. While developing this project, I excelled in developing client-side applications using Angular and Infragistics UI Library by designing functional web layouts, implementing reactive forms, and strategically building singleton services. I also contributed significantly to backend development and implementing APIs in ASP.NET. 
 
 My most recent completed project is my [senior project](https://github.com/Finesseology/cultureforyou) which at its core is a shop management site that allows an admin to confirm/reject appointments from customers, respond to custom product requests, upload new products into the site, and manage their business and personal calendar into one. This project was designed using Figma, developed in Next.js and MySQL, and hosted on Google Console Cloud.
 
 #### 🔭 I’m currently working on...
- - A task and workflow manager using Angular/MySQL for a medical supply company located in Sacramento.
+ - A task and workflow manager using Angular/MySQL for a medical supply company located in Sacramento. (private)
  - A website built with React/Firebase utilizing Google Maps API that allows users to upload custom markers on the map. 
  - My own personal site with Next.js showcasing a collection of accomplishments, projects, and my hobbies that I've accumulated over the years.
 
