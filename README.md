@@ -3,7 +3,7 @@
 I'm a recent CS graduate from California State University of Sacramento, who is passionate about pursuing a career in software development. 
 I am dedicated to honing my craft and that includes picking up many side projects to help work towards my own developmental goals. 
 
-During my 6 month software engineering internship at Northern California Power Agency, I worked to develop a critical upgrade for 25 year old legacy application 
+During my 6 month software engineering internship at Northern California Power Agency, I worked to develop a critical upgrade for a 25 year old legacy application 
 that addressed previous shortcomings and wants by business end-users. While developing this project, I excelled in developing client-side applications using Angular and Infragistics UI Library by designing functional web layouts, implementing reactive forms, and strategically building singleton services. I also contributed significantly to backend development and implementing APIs in ASP.NET. 
 
 My most recent completed project is my [senior project](https://github.com/Finesseology/cultureforyou) which at its core is a shop management site that allows an admin to confirm/reject appointments from customers, respond to custom product requests, upload new products into the site, and manage their business and personal calendar into one. This project was designed using Figma, developed in Next.js and MySQL, and hosted on Google Console Cloud.
